@@ -1,2 +1,3 @@
 # vmb651
-Bioinformatics Workshop
+Bioinformatics Workshop 2020
+
